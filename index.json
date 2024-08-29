@@ -1,0 +1,56 @@
+[
+  {
+    "title": "August Coding Social",
+    "date": "8-27-24",
+    "startTime": "5PM",
+    "endTime": "7PM",
+    "details": "Come hang out, meet other developers in the area, and talk about whatever tech piques your interest! Coders and tech enthusiasts of all levels are invited.",
+    "location": "Crafted",
+    "address": "1101 Airport Road, Bloomington, IL"
+  },
+  {
+    "title": "July Developer Meetup",
+    "date": "7-16-24",
+    "startTime": "5PM",
+    "endTime": "7PM",
+    "details": "Come hang out, talk about what you've been coding, and get to know other developers in BloNo!",
+    "location": "Crafted",
+    "address": "1101 Airport Road, Bloomington, IL"
+  },
+  {
+    "title": "Coding Social",
+    "date": "3-5-24",
+    "startTime": "6PM",
+    "endTime": "8PM",
+    "details": "We're going back to CRAFTED in Bloomington! Coders of all levels feel free to come talk projects, share resources, or just learn more about people in the community.",
+    "location": "Crafted",
+    "address": "1101 Airport Road, Bloomington, IL"
+  },
+  {
+    "title": "Coding Social",
+    "date": "2-6-24",
+    "startTime": "6PM",
+    "endTime": "8PM",
+    "details": "We're going back to CRAFTED in Bloomington! Coders of all levels feel free to come talk projects, share resources, or just learn more about people in the community.",
+    "location": "Crafted",
+    "address": "1101 Airport Road, Bloomington, IL"
+  },
+  {
+    "title": "Coding Social",
+    "date": "1-23-24",
+    "startTime": "6PM",
+    "endTime": "8PM",
+    "details": "We're going back to CRAFTED in Bloomington! Coders of all levels feel free to come talk projects, share resources, or just learn more about people in the community.",
+    "location": "Crafted",
+    "address": "1101 Airport Road, Bloomington, IL"
+  },
+  {
+    "title": "Biweekly Coding Social",
+    "date": "1-23-24",
+    "startTime": "6PM",
+    "endTime": "8PM",
+    "details": "We're going back to CRAFTED in Bloomington! Coders of all levels feel free to come talk projects, share resources, or just learn more about people in the community.",
+    "location": "Destihl Brewery",
+    "address": "1200 Greenbriar Dr, Normal, IL"
+  }
+]
