@@ -144,7 +144,7 @@
     "address": "1401 Commerce Pkwy, Bloomington, IL"
   },
   {
-    "title": "Coding Workshop",
+    "title": "Coding Social",
     "date": "2-27-23",
     "startTime": "6PM",
     "endTime": "8PM",
@@ -153,12 +153,57 @@
     "address": "1101 Airport Road, Bloomington, IL"
   },
   {
-    "title": "Coding Workshop",
+    "title": "Coding Social",
     "date": "1-24-23",
     "startTime": "6PM",
     "endTime": "8PM",
     "details": "Coding social for anyone in Bloomington-Normal and beyond. Come hang out, talk about your passions, and talk trash about Objective-C (if you wish). I doubled checked to make sure there wasn't trivia on this night. Bring ideas for what you'd like to get out of this group - whether it be demos, workshops, questions, personal projects, networking, school, general interest, or what have you",
     "location": "Crafted",
     "address": "1101 Airport Road, Bloomington, IL"
+  },
+  {
+    "title": "Coding Social",
+    "date": "9-22-22",
+    "startTime": "530PM",
+    "endTime": "730PM",
+    "details": "Come hang out and talk shop! Veteran and newbie coders feel free to come talk projects, share resources, and cut loose!",
+    "location": "Keg Grove Brewing Company",
+    "address": "712 E Empire St Suite 2, Bloomington, IL"
+  },
+  {
+    "title": "Coding Social",
+    "date": "8-25-22",
+    "startTime": "530PM",
+    "endTime": "730PM",
+    "details": "Come hang out and talk shop! Veteran and newbie coders feel free to come talk projects, share resources, and cut loose!",
+    "location": "Keg Grove Brewing Company",
+    "address": "712 E Empire St Suite 2, Bloomington, IL"
+  },
+  {
+    "title": "Coding Social",
+    "date": "6-16-22",
+    "startTime": "530PM",
+    "endTime": "730PM",
+    "details": "Come hang out and talk shop! Veteran and newbie coders feel free to come talk projects, share resources, and cut loose!",
+    "location": "Keg Grove Brewing Company",
+    "address": "712 E Empire St Suite 2, Bloomington, IL"
+  },
+  {
+    "title": "Coding Social",
+    "date": "4-26-22",
+    "startTime": "530PM",
+    "endTime": "730PM",
+    "details": "Come hang out and talk shop! Veteran and newbie coders feel free to come talk projects, share resources, and cut loose!",
+    "location": "Keg Grove Brewing Company",
+    "address": "712 E Empire St Suite 2, Bloomington, IL"
+  },
+  {
+    "title": "Coding Social",
+    "date": "3-23-22",
+    "startTime": "600PM",
+    "endTime": "800PM",
+    "details": "Come hang out and talk shop! Veteran and newbie coders feel free to come talk projects, share resources, and cut loose!",
+    "location": "Keg Grove Brewing Company",
+    "address": "712 E Empire St Suite 2, Bloomington, IL"
   }
 ]
